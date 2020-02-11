@@ -1,0 +1,29 @@
+h1{
+    font-family: Comic Sans MS;     /* for font style */ 
+    color: blueviolet;              /*for color of the text*/
+    background: black;              /* for background of the text */
+    text-align: center;                 /* alignment of the text */
+}
+
+p{
+    font-family: Comic Sans MS;   
+    color:black;             
+    background:blueviolet;             
+    text-align: left;    
+    font-size: 15px;            
+}
+
+div{
+    height: 200px;
+    width:  300px;
+    background:url("maldives.jpg");
+    background-size: cover;
+}
+
+p.two{
+    bont-family: Comic Sans MS;   
+    color:black;             
+    background:rgb(60, 164, 206);             
+    text-align: left;    
+    font-size: 15px;  
+}
