@@ -1,0 +1,20 @@
+.col{
+    display: inline-block;
+    width: 10%;
+}
+img{
+    width: 100%;
+}
+.lg12{width: 98.48%;}
+.lg11{width: 90.28%;}
+.lg10{width: 82.08%;}
+.lg9{width: 73.88%;}
+.lg8{width: 65.68%;}
+.lg7{width: 57.48%;}
+.lg6{width: 49.28%;}
+.lg5{width: 41.08%;}
+.lg4{width: 32.88%;}
+.lg3{width: 24.68%;}
+.lg2{width: 16.48%;}
+.lg1{width: 8.2%;}
+.lg0{display:none; width: 0%;}
